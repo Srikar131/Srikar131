@@ -1,108 +1,206 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SRIKAR-%F0%9F%9A%80-neon" alt="Srikar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C4DFF,100:00FFA3&height=120&text=S%20R%20I%20K%20A%20R&fontSize=40&fontColor=fff&fontAlignY=40&animation=fadeIn&desc=AI%20%E2%80%A2%20Code%20%E2%80%A2%20Product%20%E2%80%A2%20Learning&descAlignY=65&descSize=16" alt="Srikar Banner"/>
 </p>
 
-<!-- ASCII / SVG Logo -->
-<p align="center">
-<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#00E5FF"/>
-      <stop offset="50%" stop-color="#7C4DFF"/>
-      <stop offset="100%" stop-color="#00FFA3"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect rx="16" width="100%" height="100%" fill="#0B1020"/>
-  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="url(#g)" font-size="42" font-family="JetBrains Mono, Consolas, monospace" filter="url(#glow)">S R I K A R</text>
-  <text x="50%" y="86%" dominant-baseline="middle" text-anchor="middle" fill="#A0AEC0" font-size="12" font-family="Inter, Segoe UI, Arial">AI • Code • Product • Learning</text>
-</svg>
-</p>
+# Hi, I'm Srikar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<h1 align="center">Hi, I'm Srikar <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="28"/></h1>
-<p align="center">
-  <em>AI tinkerer, full‑stack coder, data+product thinker, and lifelong learner.</em>
-</p>
+AI tinkerer, full‑stack coder, data+product thinker, and lifelong learner.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web%20Apps-%2300E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Dashboards%20%26%20DevTools-%237C4DFF?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Srikar131&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
-</p>
-
-<!-- Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FFA3&center=true&vCenter=true&width=800&lines=Building+with+Python%2C+TypeScript%2C+and+AI;Turning+data+into+decisions+%26+delightful+dashboards;Shipping+useful+tools%2C+learning+every+day" alt="typing intro" />
-</p>
-
-## 🚀 About Me
-- AI + Coding: I prototype agents, ML workflows, and developer tooling.
-- Education: I learn in public—notes, experiments, and tiny wins shipped.
-- Business: Product‑minded; I care about usability, metrics, and outcomes.
-- Motto: Ship small, iterate fast, measure impact.
-
-## 🛠️ Skills
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&label=LangChain" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
-## 📌 Featured Projects
-- 🔹 <a href="https://github.com/Srikar131" target="_blank"><b>Agentic Dash</b></a> — AI agents + dashboards for data ops. <img alt="status" src="https://img.shields.io/badge/status-experimental-%23FF69B4"> <img alt="topics" src="https://img.shields.io/badge/stack-Python%20%7C%20FastAPI%20%7C%20React-%2300E5FF">
-- 🔹 <a href="https://github.com/Srikar131" target="_blank"><b>EduNotes</b></a> — spaced‑repetition notes meets code notebooks. <img alt="topics" src="https://img.shields.io/badge/stack-TS%20%7C%20Next.js%20%7C%20Supabase-%237C4DFF">
-- 🔹 <a href="https://github.com/Srikar131" target="_blank"><b>ML-lite</b></a> — simple ML templates that actually ship. <img alt="topics" src="https://img.shields.io/badge/stack-Python%20%7C%20sklearn%20%7C%20Pandas-%2300FFA3">
-
-> Pin repos you want showcased from your profile’s “Customize profile” → “Pinned”.
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Srikar131&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikar131&theme=radical" height="160"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikar131&layout=compact&theme=radical" height="160"/>
-</p>
-
-## 🧩 Holopin Badges
-<p>
-  <a href="https://holopin.io/@srikar" target="_blank"><img src="https://holopin.me/srikar" alt="Holopin Badges"/></a>
-</p>
-
-## ✨ Fun Facts
-- I automate boring things—then make a dashboard for it.
-- Keyboard nerd; dark‑theme everything.
-- Love shipping small tools that feel delightful.
-
-## 🤝 Let’s Connect
-<p>
-  <a href="mailto:srikar@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40srikar.dev-%23EA4335?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/srikar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/srikar" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-@srikar-%23181717?logo=x&logoColor=white"></a>
-  <a href="https://srikar.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-srikar.dev-%2300FFA3?logo=vercel&logoColor=black"></a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Srikar131?style=social" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/Srikar131?style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+AI+that+matters+%F0%9F%A4%96;Crafting+seamless+user+experiences+%F0%9F%92%BB;Turning+ideas+into+reality+%E2%9A%A1" alt="typing animation" />
 </p>
 
 ---
-<p align="center">Made with ❤️, AI, and lots of coffee.</p>
+
+## 🚀 About Me
+
+- **🔬 AI + Coding:** I prototype agents, ML workflows, and developer tooling.
+- **📚 Education:** I learn in public—notes, experiments, and tiny wins shipped.
+- **💼 Business:** Product‑minded; I care about usability, metrics, and outcomes.
+- **⚡ Motto:** Ship small, iterate fast, measure impact.
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- **🔹 [Agentic Dash](https://github.com/Srikar131)** — AI agents + dashboards for data ops. ![status](https://img.shields.io/badge/In%20Progress-yellow) ![topics](https://img.shields.io/badge/AI-Agents-blue)
+- **🔹 [EduNotes](https://github.com/Srikar131)** — spaced‑repetition notes meets code notebooks. ![topics](https://img.shields.io/badge/Education-Tech-green)
+- **🔹 [ML-lite](https://github.com/Srikar131)** — simple ML templates that actually ship. ![topics](https://img.shields.io/badge/Machine-Learning-orange)
+
+> *Pin repos you want showcased from your profile's "Customize profile" → "Pinned".*
+
+---
+
+## 🎯 What I'm Building Now
+
+<div align="center">
+
+### 🚧 **Current Innovation Pipeline** 🚧
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🤖 AI Agent Platform**
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-00E5FF?style=for-the-badge&logo=robot&logoColor=white"/>
+
+*Building autonomous agents that can reason, plan, and execute complex workflows*
+
+**Stack:** LangChain • OpenAI • FastAPI  
+**Timeline:** Q1 2025  
+**Impact:** 🔥🔥🔥
+
+</td>
+<td width="33%" align="center">
+
+**📊 Real-time Analytics Suite**
+
+<img src="https://img.shields.io/badge/Status-Design%20Phase-7C4DFF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+*Interactive dashboards that tell stories, not just display data*
+
+**Stack:** Next.js • D3.js • WebSockets  
+**Timeline:** Q2 2025  
+**Impact:** 🔥🔥
+
+</td>
+<td width="33%" align="center">
+
+**🎓 Learning Accelerator**
+
+<img src="https://img.shields.io/badge/Status-Research-00FFA3?style=for-the-badge&logo=brain&logoColor=white"/>
+
+*Spaced repetition meets active recall with AI personalization*
+
+**Stack:** React Native • TensorFlow  
+**Timeline:** Q3 2025  
+**Impact:** 🔥
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🗓️ **Innovation Roadmap**
+
+```mermaid
+gantt
+    title Srikar's 2025 Innovation Timeline
+    dateFormat  YYYY-MM-DD
+    section AI Platform
+    Core Agent Framework    :active, a1, 2024-12-01, 2025-03-31
+    Multi-Agent Orchestration    :a2, 2025-02-01, 2025-05-31
+    section Analytics Suite
+    Dashboard Engine    :b1, 2025-01-15, 2025-04-30
+    Real-time Processing    :b2, 2025-03-01, 2025-06-30
+    section Learning Platform
+    Research & Prototyping    :c1, 2025-04-01, 2025-07-31
+    Beta Release    :c2, 2025-07-01, 2025-09-30
+```
+
+</div>
+
+<details>
+<summary><strong>🔬 Deep Dive into Current Experiments</strong></summary>
+
+### 🧪 **Lab Notes & Explorations**
+
+**🔬 Active Research Areas:**
+- **Agentic AI:** Multi-step reasoning with tool use
+- **Micro-Interactions:** UI that feels alive and responsive
+- **Learning Sciences:** How humans actually acquire complex skills
+
+**⚡ Quick Wins This Month:**
+- ✅ Deployed first autonomous data analysis agent
+- ✅ Built interactive SQL query builder with AI assistance
+- 🔄 Experimenting with voice-to-code workflows
+- 📋 Testing spaced repetition algorithms for technical learning
+
+**🎯 Success Metrics:**
+- **User Delight Score:** How much joy does this create?
+- **Time to Value:** Minutes from download to "aha moment"
+- **Viral Coefficient:** Would users actively recommend this?
+
+</details>
+
+---
+
+## 🧩 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@srikar">
+    <img src="https://holopin.me/srikar" alt="Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- **🤖** I automate boring things—then make a dashboard for it.
+- **⌨️** Keyboard nerd; dark‑theme everything.
+- **🚀** Love shipping small tools that feel delightful.
+- **☕** Powered by curiosity and way too much coffee.
+- **🎨** Believer that great code is beautiful code.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:srikar@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/srikar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/srikar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://srikar.dev/">
+    <img src="https://img.shields.io/badge/Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srikar131&color=00E5FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Srikar131?color=00E5FF&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+</p>
+
+---
+
+<div align="center">
+
+**"Code is poetry, AI is magic, and great products are both."** ✨
+
+*Made with ❤️, AI, and lots of coffee.*
+
+</div>
